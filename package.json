@@ -2,7 +2,9 @@
   "name": "djavawebjs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://syahrulrmdhon.github.io/djavawebjs",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "react": "^16.2.0",
     "react-click-to-edit": "^0.3.0",
     "react-dom": "^16.2.0",
@@ -14,6 +16,8 @@
     "validator": "^9.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
