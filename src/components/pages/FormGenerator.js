@@ -2,7 +2,7 @@ import React from 'react';
 import EditForm from '../forms/EditForm';
 import PreviewForm from '../forms/PreviewForm';
 import JsonForm from '../forms/JsonForm';
-import {Container,Header,Segment,Icon,Button,Input} from 'semantic-ui-react';
+import {Container,Header,Segment,Icon,Button} from 'semantic-ui-react';
 
 class FormGenerator extends React.Component {
   constructor(props){
