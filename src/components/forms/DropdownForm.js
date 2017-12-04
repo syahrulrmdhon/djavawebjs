@@ -6,11 +6,9 @@ import {Button,Segment} from 'semantic-ui-react';
 class DropdownForm extends React.Component {
   constructor(props){
     super(props);
-
     this.state = {
       documents: []
     }
-
     this.add = this.add.bind(this);
   }
   add() {
