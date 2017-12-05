@@ -25,9 +25,15 @@ hanya tampilan saja yang berhasil dibuat
 
 
 
-## Tugas ini juga dibangun dengan libraries Semantic-UI
+## Tugas ini juga dibangun dengan beberapa package
 
-* [Semantic-UI](https://react.semantic-ui.com/introduction) - The libraries used
+* [Semantic-UI](https://react.semantic-ui.com/introduction) - The packages used
+
+* [react-click-to-edit](https://www.npmjs.com/package/react-click-to-edit) - The packages used
+
+* [react-router-dom](https://www.npmjs.com/package/react-router-dom) - The packages used
+
+* [react-dom](https://www.npmjs.com/package/react-dom) - The packages used
 
 
 
