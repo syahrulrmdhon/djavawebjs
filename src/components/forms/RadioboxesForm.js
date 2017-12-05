@@ -23,7 +23,7 @@ class RadioboxesForm extends React.Component {
    });
     return(
       <div>
-        <Segment.Group>
+        <Segment.Group horizontal>
             <Radio label={{children:<ClickToEdit
               style={{leftMargin:'20px'}}
               endEditing={(value) => console.log(`New value: ${value}`)}
