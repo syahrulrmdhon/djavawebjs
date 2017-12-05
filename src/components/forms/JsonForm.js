@@ -7,6 +7,9 @@ class JsonForm extends React.Component {
       <div>
         <Segment>
             <Segment.Group horizontal>
+              <pre>
+
+              </pre>
             </Segment.Group>
         </Segment>
       </div>
