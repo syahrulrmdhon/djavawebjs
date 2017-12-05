@@ -5,7 +5,7 @@
 Clone seperti biasa 
 
 ```
-$ git clone https://github.com/syahrulrmdhon/djavawebjs.git
+$ git clone https://github.com/syahrulrmdhon/djavawebjs
 ```
 
 
